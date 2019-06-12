@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="TCRT5000_b2c92626a222079aa3980a2d82f91bd7_1" modelIndex="85411429" path="C:/Users/User/Documents/Fritzing/parts/user/TCRT5000_b2c92626a222079aa3980a2d82f91bd7_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c26e1ac9f0aaab0c9a9ab60d4674c595_35" modelIndex="85411596" path="C:/Users/User/Documents/Fritzing/parts/user/TCRT5000_sensor_module.fzp_c26e1ac9f0aaab0c9a9ab60d4674c595_35.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TCRT5000_Line_Tracker_ab8b07907f827e0c93580bae80233b8f_4" modelIndex="85411601" path="C:/Users/User/Documents/Fritzing/parts/user/TCRT5000_Line_Tracker_ab8b07907f827e0c93580bae80233b8f_4.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
